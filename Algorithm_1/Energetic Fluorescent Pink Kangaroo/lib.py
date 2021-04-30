@@ -37,11 +37,11 @@ def general_comparison(comparison_function, company_tickers, time_period=50, res
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Daily)
     elif (resolution=="hour"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Hour)
-    elif (resolution=="Minute"):
+    elif (resolution=="minute"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Minute)
-    elif (resolution=="Second"):
+    elif (resolution=="second"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Second)
-    elif (resolution=="Tick"):
+    elif (resolution=="tick"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Tick)
     else:
         print("Invalid resolution")
