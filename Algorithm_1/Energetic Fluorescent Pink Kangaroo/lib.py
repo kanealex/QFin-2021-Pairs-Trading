@@ -11,7 +11,7 @@ def general_comparison(comparison_function, company_tickers, time_period=50, res
     INPUT:
         comparison_function         Any comparison function (correlation between two companies) that returns a integer/float
         company_tickers             List of companies to be compared
-        resolution                  Resolution/granularity of data desired. May be "Tick","Second","Minute","Hour","Daily"
+        resolution                  Resolution/granularity of data desired. May be "tick","second","minute","hour","daily"
         time_period                 Number of values of given resolution to be compared for correlation
     
     
