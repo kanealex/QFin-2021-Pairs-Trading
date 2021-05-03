@@ -1,0 +1,16 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+ADI,"""Analog Devices"," Inc.""",reports,Information Technology
+ANSS,"""ANSYS"," Inc.""",reports,Information Technology
+DISCA,"""Discovery"," Inc. (Series A)""",reports,Communication Services
+DISCK,"""Discovery"," Inc. (Series C)""",reports,Communication Services
+ESS,"""Essex Property Trust"," Inc.""",reports,Real Estate
+FB,"""Facebook"," Inc.""",reports,Communication Services
+NDAQ,"""Nasdaq"," Inc.""",reports,Financials
+NKE,"""Nike"," Inc.""",reports,Consumer Discretionary
+NVR,"""NVR"," Inc.""",reports,Consumer Discretionary
+ROL,"""Rollins"," Inc.""",reports,Industrials
+TPR,"""Tapestry"," Inc.""",reports,Consumer Discretionary
+TSLA,"""Tesla"," Inc.""",reports,Consumer Discretionary
+TWTR,"""Twitter"," Inc.""",reports,Communication Services
+UDR,"""UDR"," Inc.""",reports,Real Estate
+URI,"""United Rentals"," Inc.""",reports,Industrials
