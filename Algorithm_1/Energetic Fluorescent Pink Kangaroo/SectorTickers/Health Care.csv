@@ -1,0 +1,63 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+ABT,Abbott Laboratories,reports,Health Care,Health Care Equipment
+ABBV,AbbVie Inc.,reports,Health Care,Pharmaceuticals
+ABMD,Abiomed,reports,Health Care,Health Care Equipment
+A,Agilent Technologies,reports,Health Care,Health Care Equipment
+ALXN,Alexion Pharmaceuticals,reports,Health Care,Pharmaceuticals
+ALGN,Align Technology,reports,Health Care,Health Care Supplies
+ABC,AmerisourceBergen,reports,Health Care,Health Care Distributors
+AMGN,Amgen Inc.,reports,Health Care,Biotechnology
+ANTM,Anthem,reports,Health Care,Managed Health Care
+BAX,Baxter International Inc.,reports,Health Care,Health Care Equipment
+BDX,Becton Dickinson,reports,Health Care,Health Care Equipment
+BIO,Bio-Rad Laboratories,reports,Health Care,Life Sciences Tools & Services
+BIIB,Biogen Inc.,reports,Health Care,Biotechnology
+BSX,Boston Scientific,reports,Health Care,Health Care Equipment
+BMY,Bristol-Myers Squibb,reports,Health Care,Health Care Distributors
+CAH,Cardinal Health Inc.,reports,Health Care,Health Care Distributors
+CTLT,Catalent,reports,Health Care,Pharmaceuticals
+CNC,Centene Corporation,reports,Health Care,Managed Health Care
+CERN,Cerner,reports,Health Care,Health Care Technology
+CI,Cigna,reports,Health Care,Managed Health Care
+COO,The Cooper Companies,reports,Health Care,Health Care Supplies
+CVS,CVS Health,reports,Health Care,Health Care Services
+DHR,Danaher Corp.,reports,Health Care,Health Care Equipment
+DVA,DaVita Inc.,reports,Health Care,Health Care Facilities
+XRAY,Dentsply Sirona,reports,Health Care,Health Care Supplies
+DXCM,DexCom,reports,Health Care,Health Care Equipment
+EW,Edwards Lifesciences,reports,Health Care,Health Care Equipment
+GILD,Gilead Sciences,reports,Health Care,Biotechnology
+HCA,HCA Healthcare,reports,Health Care,Health Care Facilities
+HSIC,Henry Schein,reports,Health Care,Health Care Distributors
+HOLX,Hologic,reports,Health Care,Health Care Equipment
+HUM,Humana Inc.,reports,Health Care,Managed Health Care
+IDXX,Idexx Laboratories,reports,Health Care,Health Care Equipment
+ILMN,Illumina Inc,reports,Health Care,Life Sciences Tools & Services
+INCY,Incyte,reports,Health Care,Biotechnology
+ISRG,Intuitive Surgical Inc.,reports,Health Care,Health Care Equipment
+IQV,IQVIA Holdings Inc.,reports,Health Care,Life Sciences Tools & Services
+JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals
+LH,Laboratory Corp. of America Holding,reports,Health Care,Health Care Services
+LLY,Lilly (Eli) & Co.,reports,Health Care,Pharmaceuticals
+MCK,McKesson Corp.,reports,Health Care,Health Care Distributors
+MDT,Medtronic plc,reports,Health Care,Health Care Equipment
+MRK,Merck & Co.,reports,Health Care,Pharmaceuticals
+MTD,Mettler Toledo,reports,Health Care,Life Sciences Tools & Services
+PKI,PerkinElmer,reports,Health Care,Health Care Equipment
+PRGO,Perrigo,reports,Health Care,Pharmaceuticals
+PFE,Pfizer Inc.,reports,Health Care,Pharmaceuticals
+DGX,Quest Diagnostics,reports,Health Care,Health Care Services
+REGN,Regeneron Pharmaceuticals,reports,Health Care,Biotechnology
+RMD,ResMed,reports,Health Care,Health Care Equipment
+STE,Steris,reports,Health Care,Health Care Equipment
+SYK,Stryker Corp.,reports,Health Care,Health Care Equipment
+TFX,Teleflex,reports,Health Care,Health Care Equipment
+TMO,Thermo Fisher Scientific,reports,Health Care,Life Sciences Tools & Services
+UNH,UnitedHealth Group Inc.,reports,Health Care,Managed Health Care
+UHS,Universal Health Services,reports,Health Care,Health Care Facilities
+VRTX,Vertex Pharmaceuticals Inc,reports,Health Care,Biotechnology
+VTRS,Viatris,reports,Health Care,Pharmaceuticals
+WAT,Waters Corporation,reports,Health Care,Health Care Distributors
+WST,West Pharmaceutical Services,reports,Health Care,Health Care Supplies
+ZBH,Zimmer Biomet,reports,Health Care,Health Care Equipment
+ZTS,Zoetis,reports,Health Care,Pharmaceuticals

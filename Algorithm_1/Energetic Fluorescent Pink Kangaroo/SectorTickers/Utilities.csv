@@ -1,0 +1,29 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+AES,AES Corp,reports,Utilities,Independent Power Producers & Energy Traders
+LNT,Alliant Energy,reports,Utilities,Electric Utilities
+AEE,Ameren Corp,reports,Utilities,Multi-Utilities
+AEP,American Electric Power,reports,Utilities,Electric Utilities
+AWK,American Water Works,reports,Utilities,Water Utilities
+ATO,Atmos Energy,reports,Utilities,Gas Utilities
+CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities
+CMS,CMS Energy,reports,Utilities,Multi-Utilities
+ED,Consolidated Edison,reports,Utilities,Electric Utilities
+D,Dominion Energy,reports,Utilities,Electric Utilities
+DTE,DTE Energy Co.,reports,Utilities,Multi-Utilities
+DUK,Duke Energy,reports,Utilities,Electric Utilities
+EIX,Edison Int'l,reports,Utilities,Electric Utilities
+ETR,Entergy Corp.,reports,Utilities,Electric Utilities
+EVRG,Evergy,reports,Utilities,Electric Utilities
+ES,Eversource Energy,reports,Utilities,Multi-Utilities
+EXC,Exelon Corp.,reports,Utilities,Multi-Utilities
+FE,FirstEnergy Corp,reports,Utilities,Electric Utilities
+NEE,NextEra Energy,reports,Utilities,Multi-Utilities
+NI,NiSource Inc.,reports,Utilities,Multi-Utilities
+NRG,NRG Energy,reports,Utilities,Independent Power Producers & Energy Traders
+PNW,Pinnacle West Capital,reports,Utilities,Multi-Utilities
+PPL,PPL Corp.,reports,Utilities,Electric Utilities
+PEG,Public Service Enterprise Group (PSEG),reports,Utilities,Electric Utilities
+SRE,Sempra Energy,reports,Utilities,Multi-Utilities
+SO,Southern Company,reports,Utilities,Electric Utilities
+WEC,WEC Energy Group,reports,Utilities,Electric Utilities
+XEL,Xcel Energy Inc,reports,Utilities,Multi-Utilities
