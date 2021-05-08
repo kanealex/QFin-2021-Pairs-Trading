@@ -1,0 +1,74 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+ACN,Accenture,reports,Information Technology,IT Consulting & Other Services
+ADBE,Adobe Inc.,reports,Information Technology,Application Software
+AMD,Advanced Micro Devices,reports,Information Technology,Semiconductors
+AKAM,Akamai Technologies,reports,Information Technology,Internet Services & Infrastructure
+APH,Amphenol Corp,reports,Information Technology,Electronic Components
+AAPL,Apple Inc.,reports,Information Technology,"""Technology Hardware"
+AMAT,Applied Materials Inc.,reports,Information Technology,Semiconductor Equipment
+ANET,Arista Networks,reports,Information Technology,Communications Equipment
+ADSK,Autodesk Inc.,reports,Information Technology,Application Software
+ADP,Automatic Data Processing,reports,Information Technology,Data Processing & Outsourced Services
+AVGO,Broadcom Inc.,reports,Information Technology,Semiconductors
+BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services
+CDNS,Cadence Design Systems,reports,Information Technology,Application Software
+CDW,CDW,reports,Information Technology,Technology Distributors
+CSCO,Cisco Systems,reports,Information Technology,Communications Equipment
+CTXS,Citrix Systems,reports,Information Technology,Application Software
+CTSH,Cognizant Technology Solutions,reports,Information Technology,IT Consulting & Other Services
+GLW,Corning Inc.,reports,Information Technology,Electronic Components
+DXC,DXC Technology,reports,Information Technology,IT Consulting & Other Services
+ENPH,Enphase Energy,reports,Information Technology,Electronic Components
+FFIV,F5 Networks,reports,Information Technology,Communications Equipment
+FIS,Fidelity National Information Services,reports,Information Technology,Data Processing & Outsourced Services
+FISV,Fiserv Inc,reports,Information Technology,Data Processing & Outsourced Services
+FLT,FleetCor Technologies Inc,reports,Information Technology,Data Processing & Outsourced Services
+FLIR,FLIR Systems,reports,Information Technology,Electronic Equipment & Instruments
+FTNT,Fortinet,reports,Information Technology,Systems Software
+IT,Gartner Inc,reports,Information Technology,IT Consulting & Other Services
+GPN,Global Payments Inc.,reports,Information Technology,Data Processing & Outsourced Services
+HPE,Hewlett Packard Enterprise,reports,Information Technology,"""Technology Hardware"
+HPQ,HP Inc.,reports,Information Technology,"""Technology Hardware"
+INTC,Intel Corp.,reports,Information Technology,Semiconductors
+IBM,International Business Machines,reports,Information Technology,IT Consulting & Other Services
+INTU,Intuit Inc.,reports,Information Technology,Application Software
+IPGP,IPG Photonics Corp.,reports,Information Technology,Electronic Manufacturing Services
+JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services
+JNPR,Juniper Networks,reports,Information Technology,Communications Equipment
+KEYS,Keysight Technologies,reports,Information Technology,Electronic Equipment & Instruments
+KLAC,KLA Corporation,reports,Information Technology,Semiconductor Equipment
+LRCX,Lam Research,reports,Information Technology,Semiconductor Equipment
+MA,Mastercard Inc.,reports,Information Technology,Data Processing & Outsourced Services
+MXIM,Maxim Integrated Products,reports,Information Technology,Semiconductors
+MCHP,Microchip Technology,reports,Information Technology,Semiconductors
+MU,Micron Technology,reports,Information Technology,Semiconductors
+MSFT,Microsoft Corp.,reports,Information Technology,Systems Software
+MPWR,Monolithic Power Systems,reports,Information Technology,Semiconductors
+MSI,Motorola Solutions Inc.,reports,Information Technology,Communications Equipment
+NTAP,NetApp,reports,Information Technology,"""Technology Hardware"
+NLOK,NortonLifeLock,reports,Information Technology,Application Software
+NVDA,Nvidia Corporation,reports,Information Technology,Semiconductors
+NXPI,NXP Semiconductors,reports,Information Technology,Semiconductors
+ORCL,Oracle Corp.,reports,Information Technology,Application Software
+PAYX,Paychex Inc.,reports,Information Technology,Data Processing & Outsourced Services
+PAYC,Paycom,reports,Information Technology,Application Software
+PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services
+PTC,PTC Inc,reports,Information Technology,Application Software
+QRVO,Qorvo,reports,Information Technology,Semiconductors
+QCOM,Qualcomm,reports,Information Technology,Semiconductors
+CRM,Salesforce.com,reports,Information Technology,Application Software
+STX,Seagate Technology,reports,Information Technology,"""Technology Hardware"
+NOW,ServiceNow,reports,Information Technology,Systems Software
+SWKS,Skyworks Solutions,reports,Information Technology,Semiconductors
+SNPS,Synopsys Inc.,reports,Information Technology,Application Software
+TEL,TE Connectivity Ltd.,reports,Information Technology,Electronic Manufacturing Services
+TER,Teradyne,reports,Information Technology,Semiconductor Equipment
+TXN,Texas Instruments,reports,Information Technology,Semiconductors
+TRMB,Trimble Inc.,reports,Information Technology,Electronic Equipment & Instruments
+TYL,Tyler Technologies,reports,Information Technology,Application Software
+VRSN,Verisign Inc.,reports,Information Technology,Internet Services & Infrastructure
+V,Visa Inc.,reports,Information Technology,Data Processing & Outsourced Services
+WDC,Western Digital,reports,Information Technology,"""Technology Hardware"
+WU,Western Union Co,reports,Information Technology,Data Processing & Outsourced Services
+XLNX,Xilinx,reports,Information Technology,Semiconductors
+ZBRA,Zebra Technologies,reports,Information Technology,Electronic Equipment & Instruments
