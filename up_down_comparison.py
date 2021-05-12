@@ -69,6 +69,20 @@ def return_ticker_file(ticker):
     return ticker_file
 
 def up_down_comparison(ticker1,ticker2):
+    """
+    This comparison function first calculates if the share price has gone up, down or stayed
+    the same in the past minute. 
+
+    The "final_score" variable is the proportion of minutes where both tickers share prices
+    moved in the same direction
+
+    INPUT: 
+    ticker1         string 
+    ticker2         string 
+
+    OUTPUT:
+    final_score     float or double, not sure
+    """
     t1_data=return_ticker_file(ticker1)
     t2_data=return_ticker_file(ticker2)
     t1_up_down=[]
