@@ -1,8 +1,26 @@
-
 import numpy as np
 from statsmodels.tsa.stattools import coint
 
+# Imports from here: https://github.com/QuantConnect/Lean/blob/master/Research/BasicQuantBookTemplate.ipynb
+from clr import AddReference
+AddReference("System")
+AddReference("QuantConnect.Common")
+AddReference("QuantConnect.Research")
+AddReference("QuantConnect.Indicators")
+from System import *
+from QuantConnect import *
+from QuantConnect.Data.Custom import *
+from QuantConnect.Data.Market import TradeBar, QuoteBar
+from QuantConnect.Research import *
+from QuantConnect.Indicators import *
+from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+import pandas as pd
 
+
+def __main__():
+    company_tickers=["MMM","AAP","APA","KO"]
+    return general_comparison(coint_evaluator, company_tickers)
 
 def general_comparison(comparison_function, company_tickers, time_period=50, resolution="daily" ):
     """
@@ -11,7 +29,7 @@ def general_comparison(comparison_function, company_tickers, time_period=50, res
     INPUT:
         comparison_function         Any comparison function (correlation between two companies) that returns a integer/float
         company_tickers             List of companies to be compared
-        resolution                  Resolution/granularity of data desired. May be "tick","second","minute","hour","daily"
+        resolution                  Resolution/granularity of data desired. May be "Tick","Second","Minute","Hour","Daily"
         time_period                 Number of values of given resolution to be compared for correlation
     
     
@@ -36,7 +54,7 @@ def general_comparison(comparison_function, company_tickers, time_period=50, res
     if (resolution=="daily"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Daily)
     elif (resolution=="hour"):
-        h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Hour)
+        h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Hour) #not sure if "Resolution.Hour" is correct
     elif (resolution=="minute"):
         h1 = qb.History(qb.Securities.Keys, time_period, Resolution.Minute)
     elif (resolution=="second"):
@@ -60,7 +78,7 @@ def coint_evaluator(history1,history2):
     return pval
         
         
-    
+__main__()
 
     
 
