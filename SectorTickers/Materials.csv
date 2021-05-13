@@ -1,0 +1,29 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+APD,Air Products & Chemicals,reports,Materials,Industrial Gases
+ALB,Albemarle Corporation,reports,Materials,Specialty Chemicals
+AMCR,Amcor plc,reports,Materials,Paper Packaging
+AVY,Avery Dennison Corp,reports,Materials,Paper Packaging
+BLL,Ball Corp,reports,Materials,Metal & Glass Containers
+CE,Celanese,reports,Materials,Specialty Chemicals
+CF,CF Industries Holdings Inc,reports,Materials,Fertilizers & Agricultural Chemicals
+CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals
+DOW,Dow Inc.,reports,Materials,Commodity Chemicals
+DD,DuPont de Nemours Inc,reports,Materials,Specialty Chemicals
+EMN,Eastman Chemical,reports,Materials,Diversified Chemicals
+ECL,Ecolab Inc.,reports,Materials,Specialty Chemicals
+FMC,FMC Corporation,reports,Materials,Fertilizers & Agricultural Chemicals
+FCX,Freeport-McMoRan Inc.,reports,Materials,Copper
+IP,International Paper,reports,Materials,Paper Packaging
+IFF,International Flavors & Fragrances,reports,Materials,Specialty Chemicals
+LIN,Linde plc,reports,Materials,Industrial Gases
+LYB,LyondellBasell,reports,Materials,Specialty Chemicals
+MLM,Martin Marietta Materials,reports,Materials,Construction Materials
+MOS,The Mosaic Company,reports,Materials,Fertilizers & Agricultural Chemicals
+NEM,Newmont Corporation,reports,Materials,Gold
+NUE,Nucor Corp.,reports,Materials,Steel
+PKG,Packaging Corporation of America,reports,Materials,Paper Packaging
+PPG,PPG Industries,reports,Materials,Specialty Chemicals
+SEE,Sealed Air,reports,Materials,Paper Packaging
+SHW,Sherwin-Williams,reports,Materials,Specialty Chemicals
+VMC,Vulcan Materials,reports,Materials,Construction Materials
+WRK,WestRock,reports,Materials,Paper Packaging
