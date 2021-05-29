@@ -16,7 +16,8 @@ import time
 import itertools
 
 
-file_location="C:\\Users\\jessi\\Dropbox\\Trading\\quantitativeFinance"
+file_location=os.path.dirname(os.path.realpath(__file__))
+print(file_location)
 
 def __main__():
     tickers=return_industry_list("Health_Care")
