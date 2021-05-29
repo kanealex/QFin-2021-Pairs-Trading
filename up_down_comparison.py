@@ -16,7 +16,7 @@ import time
 import itertools
 
 
-file_location="D:\My Desktop\QFin\Data\quantitativeFinance-master"
+file_location="C:\\Users\\jessi\\Dropbox\\Trading\\quantitativeFinance"
 
 def __main__():
     tickers=return_industry_list("Health_Care")
@@ -131,4 +131,3 @@ def generate_pairs(tickers):
     return pairs
         
     
-__main__()
