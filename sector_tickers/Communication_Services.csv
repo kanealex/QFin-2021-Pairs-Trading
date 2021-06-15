@@ -1,0 +1,23 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+ATVI,Activision Blizzard,reports,Communication Services,Interactive Home Entertainment
+GOOGL,Alphabet Inc. (Class A),reports,Communication Services,Interactive Media & Services
+GOOG,Alphabet Inc. (Class C),reports,Communication Services,Interactive Media & Services
+T,AT&T Inc.,reports,Communication Services,Integrated Telecommunication Services
+CHTR,Charter Communications,reports,Communication Services,Cable & Satellite
+CMCSA,Comcast Corp.,reports,Communication Services,Cable & Satellite
+DISH,Dish Network,reports,Communication Services,Cable & Satellite
+EA,Electronic Arts,reports,Communication Services,Interactive Home Entertainment
+FOXA,Fox Corporation (Class A),reports,Communication Services,Movies & Entertainment
+FOX,Fox Corporation (Class B),reports,Communication Services,Movies & Entertainment
+IPG,Interpublic Group,reports,Communication Services,Advertising
+LYV,Live Nation Entertainment,reports,Communication Services,Movies & Entertainment
+LUMN,Lumen Technologies,reports,Communication Services,Alternative Carriers
+NFLX,Netflix Inc.,reports,Communication Services,Movies & Entertainment
+NWSA,News Corp (Class A),reports,Communication Services,Publishing
+NWS,News Corp (Class B),reports,Communication Services,Publishing
+OMC,Omnicom Group,reports,Communication Services,Advertising
+TMUS,T-Mobile US,reports,Communication Services,Wireless Telecommunication Services
+TTWO,Take-Two Interactive,reports,Communication Services,Interactive Home Entertainment
+VZ,Verizon Communications,reports,Communication Services,Integrated Telecommunication Services
+VIAC,ViacomCBS,reports,Communication Services,Movies & Entertainment
+DIS,The Walt Disney Company,reports,Communication Services,Movies & Entertainment

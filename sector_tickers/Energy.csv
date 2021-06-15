@@ -1,0 +1,24 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+APA,APA Corporation,reports,Energy,Oil & Gas Exploration & Production
+BKR,Baker Hughes Co,reports,Energy,Oil & Gas Equipment & Services
+COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production
+CVX,Chevron Corp.,reports,Energy,Integrated Oil & Gas
+COP,ConocoPhillips,reports,Energy,Oil & Gas Exploration & Production
+DVN,Devon Energy,reports,Energy,Oil & Gas Exploration & Production
+FANG,Diamondback Energy,reports,Energy,Oil & Gas Exploration & Production
+EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production
+XOM,Exxon Mobil Corp.,reports,Energy,Integrated Oil & Gas
+HAL,Halliburton Co.,reports,Energy,Oil & Gas Equipment & Services
+HES,Hess Corporation,reports,Energy,Integrated Oil & Gas
+HFC,HollyFrontier Corp,reports,Energy,Oil & Gas Refining & Marketing
+KMI,Kinder Morgan,reports,Energy,Oil & Gas Storage & Transportation
+MRO,Marathon Oil Corp.,reports,Energy,Oil & Gas Exploration & Production
+MPC,Marathon Petroleum,reports,Energy,Oil & Gas Refining & Marketing
+NOV,NOV Inc.,reports,Energy,Oil & Gas Equipment & Services
+OXY,Occidental Petroleum,reports,Energy,Oil & Gas Exploration & Production
+OKE,Oneok,reports,Energy,Oil & Gas Storage & Transportation
+PSX,Phillips 66,reports,Energy,Oil & Gas Refining & Marketing
+PXD,Pioneer Natural Resources,reports,Energy,Oil & Gas Exploration & Production
+SLB,Schlumberger Ltd.,reports,Energy,Oil & Gas Equipment & Services
+VLO,Valero Energy,reports,Energy,Oil & Gas Refining & Marketing
+WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation

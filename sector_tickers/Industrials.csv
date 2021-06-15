@@ -1,0 +1,73 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+MMM,3M Company,reports,Industrials,Industrial Conglomerates
+ALK,Alaska Air Group,reports,Industrials,Airlines
+ALLE,Allegion,reports,Industrials,Building Products
+AAL,American Airlines Group,reports,Industrials,Airlines
+AME,Ametek,reports,Industrials,Electrical Components & Equipment
+AOS,A.O. Smith Corp,reports,Industrials,Building Products
+BA,Boeing Company,reports,Industrials,Aerospace & Defense
+CHRW,C. H. Robinson Worldwide,reports,Industrials,Air Freight & Logistics
+CARR,Carrier Global,reports,Industrials,Building Products
+CAT,Caterpillar Inc.,reports,Industrials,Construction Machinery & Heavy Trucks
+CTAS,Cintas Corporation,reports,Industrials,Diversified Support Services
+CPRT,Copart Inc,reports,Industrials,Diversified Support Services
+CSX,CSX Corp.,reports,Industrials,Railroads
+CMI,Cummins Inc.,reports,Industrials,Industrial Machinery
+DE,Deere & Co.,reports,Industrials,Agricultural & Farm Machinery
+DAL,Delta Air Lines Inc.,reports,Industrials,Airlines
+DOV,Dover Corporation,reports,Industrials,Industrial Machinery
+ETN,Eaton Corporation,reports,Industrials,Electrical Components & Equipment
+EMR,Emerson Electric Company,reports,Industrials,Electrical Components & Equipment
+EFX,Equifax Inc.,reports,Industrials,Research & Consulting Services
+EXPD,Expeditors,reports,Industrials,Air Freight & Logistics
+FAST,Fastenal Co,reports,Industrials,Building Products
+FDX,FedEx Corporation,reports,Industrials,Air Freight & Logistics
+FTV,Fortive Corp,reports,Industrials,Industrial Machinery
+FBHS,Fortune Brands Home & Security,reports,Industrials,Building Products
+GNRC,Generac Holdings,reports,Industrials,Electrical Components & Equipment
+GD,General Dynamics,reports,Industrials,Aerospace & Defense
+GE,General Electric,reports,Industrials,Industrial Conglomerates
+GWW,Grainger (W.W.) Inc.,reports,Industrials,Industrial Machinery
+HON,Honeywell Int'l Inc.,reports,Industrials,Industrial Conglomerates
+HWM,Howmet Aerospace,reports,Industrials,Aerospace & Defense
+HII,Huntington Ingalls Industries,reports,Industrials,Aerospace & Defense
+IEX,IDEX Corporation,reports,Industrials,Industrial Machinery
+INFO,IHS Markit,reports,Industrials,Research & Consulting Services
+ITW,Illinois Tool Works,reports,Industrials,Industrial Machinery
+IR,Ingersoll-Rand,reports,Industrials,Industrial Machinery
+J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering
+JBHT,J. B. Hunt Transport Services,reports,Industrials,Trucking
+JCI,Johnson Controls International,reports,Industrials,Building Products
+KSU,Kansas City Southern,reports,Industrials,Railroads
+LHX,L3Harris Technologies,reports,Industrials,Aerospace & Defense
+LDOS,Leidos Holdings,reports,Industrials,Diversified Support Services
+LMT,Lockheed Martin Corp.,reports,Industrials,Aerospace & Defense
+MAS,Masco Corp.,reports,Industrials,Building Products
+NLSN,Nielsen Holdings,reports,Industrials,Research & Consulting Services
+NSC,Norfolk Southern Corp.,reports,Industrials,Railroads
+NOC,Northrop Grumman,reports,Industrials,Aerospace & Defense
+ODFL,Old Dominion Freight Line,reports,Industrials,Trucking
+OTIS,Otis Worldwide,reports,Industrials,Industrial Machinery
+PCAR,Paccar,reports,Industrials,Construction Machinery & Heavy Trucks
+PH,Parker-Hannifin,reports,Industrials,Industrial Machinery
+PNR,Pentair plc,reports,Industrials,Industrial Machinery
+PWR,Quanta Services Inc.,reports,Industrials,Construction & Engineering
+RTX,Raytheon Technologies,reports,Industrials,Aerospace & Defense
+RSG,Republic Services Inc,reports,Industrials,Environmental & Facilities Services
+RHI,Robert Half International,reports,Industrials,Human Resource & Employment Services
+ROK,Rockwell Automation Inc.,reports,Industrials,Electrical Components & Equipment
+ROP,Roper Technologies,reports,Industrials,Industrial Conglomerates
+SNA,Snap-on,reports,Industrials,Industrial Machinery
+LUV,Southwest Airlines,reports,Industrials,Airlines
+SWK,Stanley Black & Decker,reports,Industrials,Industrial Machinery
+TDY,Teledyne Technologies,reports,Industrials,Aerospace & Defense
+TXT,Textron Inc.,reports,Industrials,Aerospace & Defense
+TT,Trane Technologies plc,reports,Industrials,Building Products
+TDG,TransDigm Group,reports,Industrials,Aerospace & Defense
+UNP,Union Pacific Corp,reports,Industrials,Railroads
+UAL,United Airlines Holdings,reports,Industrials,Airlines
+UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics
+VRSK,Verisk Analytics,reports,Industrials,Research & Consulting Services
+WAB,Westinghouse Air Brake Technologies Corp,reports,Industrials,Construction Machinery & Heavy Trucks
+WM,Waste Management Inc.,reports,Industrials,Environmental & Facilities Services
+XYL,Xylem Inc.,reports,Industrials,Industrial Machinery

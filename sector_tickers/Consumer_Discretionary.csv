@@ -1,0 +1,60 @@
+Ticker,Security,SEC filings,GICS Sector,GICS Sub-Industry
+AAP,Advance Auto Parts,reports,Consumer Discretionary,Automotive Retail
+AMZN,Amazon.com Inc.,reports,Consumer Discretionary,Internet & Direct Marketing Retail
+APTV,Aptiv PLC,reports,Consumer Discretionary,Auto Parts & Equipment
+AZO,AutoZone Inc,reports,Consumer Discretionary,Specialty Stores
+BBY,Best Buy Co. Inc.,reports,Consumer Discretionary,Computer & Electronics Retail
+BKNG,Booking Holdings Inc,reports,Consumer Discretionary,Internet & Direct Marketing Retail
+BWA,BorgWarner,reports,Consumer Discretionary,Auto Parts & Equipment
+CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming
+KMX,Carmax Inc,reports,Consumer Discretionary,Specialty Stores
+CCL,Carnival Corp.,reports,Consumer Discretionary,"""Hotels"
+CMG,Chipotle Mexican Grill,reports,Consumer Discretionary,Restaurants
+DHI,D. R. Horton,reports,Consumer Discretionary,Homebuilding
+DRI,Darden Restaurants,reports,Consumer Discretionary,Restaurants
+DG,Dollar General,reports,Consumer Discretionary,General Merchandise Stores
+DLTR,Dollar Tree,reports,Consumer Discretionary,General Merchandise Stores
+DPZ,Domino's Pizza,reports,Consumer Discretionary,Restaurants
+EBAY,eBay Inc.,reports,Consumer Discretionary,Internet & Direct Marketing Retail
+ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail
+EXPE,Expedia Group,reports,Consumer Discretionary,Internet & Direct Marketing Retail
+F,Ford Motor Company,reports,Consumer Discretionary,Automobile Manufacturers
+GPS,Gap Inc.,reports,Consumer Discretionary,Apparel Retail
+GRMN,Garmin Ltd.,reports,Consumer Discretionary,Consumer Electronics
+GM,General Motors,reports,Consumer Discretionary,Automobile Manufacturers
+GPC,Genuine Parts,reports,Consumer Discretionary,Specialty Stores
+HBI,Hanesbrands Inc,reports,Consumer Discretionary,"""Apparel"
+HAS,Hasbro Inc.,reports,Consumer Discretionary,Leisure Products
+HLT,Hilton Worldwide Holdings Inc,reports,Consumer Discretionary,"""Hotels"
+HD,Home Depot,reports,Consumer Discretionary,Home Improvement Retail
+LB,L Brands Inc.,reports,Consumer Discretionary,Apparel Retail
+LVS,Las Vegas Sands,reports,Consumer Discretionary,Casinos & Gaming
+LEG,Leggett & Platt,reports,Consumer Discretionary,Home Furnishings
+LEN,Lennar Corp.,reports,Consumer Discretionary,Homebuilding
+LKQ,LKQ Corporation,reports,Consumer Discretionary,Distributors
+LOW,Lowe's Cos.,reports,Consumer Discretionary,Home Improvement Retail
+MAR,Marriott International,reports,Consumer Discretionary,"""Hotels"
+MCD,McDonald's Corp.,reports,Consumer Discretionary,Restaurants
+MGM,MGM Resorts International,reports,Consumer Discretionary,Casinos & Gaming
+MHK,Mohawk Industries,reports,Consumer Discretionary,Home Furnishings
+NWL,Newell Brands,reports,Consumer Discretionary,Housewares & Specialties
+NCLH,Norwegian Cruise Line Holdings,reports,Consumer Discretionary,"""Hotels"
+ORLY,O'Reilly Automotive,reports,Consumer Discretionary,Specialty Stores
+PENN,Penn National Gaming,reports,Consumer Discretionary,Casinos & Gaming
+POOL,Pool Corporation,reports,Consumer Discretionary,Distributors
+PHM,PulteGroup,reports,Consumer Discretionary,Homebuilding
+PVH,PVH Corp.,reports,Consumer Discretionary,"""Apparel"
+RL,Ralph Lauren Corporation,reports,Consumer Discretionary,"""Apparel"
+ROST,Ross Stores,reports,Consumer Discretionary,Apparel Retail
+RCL,Royal Caribbean Group,reports,Consumer Discretionary,"""Hotels"
+SBUX,Starbucks Corp.,reports,Consumer Discretionary,Restaurants
+TGT,Target Corp.,reports,Consumer Discretionary,General Merchandise Stores
+TJX,TJX Companies Inc.,reports,Consumer Discretionary,Apparel Retail
+TSCO,Tractor Supply Company,reports,Consumer Discretionary,Specialty Stores
+ULTA,Ulta Beauty,reports,Consumer Discretionary,Specialty Stores
+UAA,Under Armour (Class A),reports,Consumer Discretionary,"""Apparel"
+UA,Under Armour (Class C),reports,Consumer Discretionary,"""Apparel"
+VFC,VF Corporation,reports,Consumer Discretionary,"""Apparel"
+WHR,Whirlpool Corp.,reports,Consumer Discretionary,Household Appliances
+WYNN,Wynn Resorts Ltd,reports,Consumer Discretionary,Casinos & Gaming
+YUM,Yum! Brands Inc,reports,Consumer Discretionary,Restaurants
