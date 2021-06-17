@@ -1,3 +1,5 @@
+'''For a given sector, finds the top 5 correlated stocks then finds their cointergratins'''
+
 from typing import final
 import pandas as pd                   
 import numpy as np   
